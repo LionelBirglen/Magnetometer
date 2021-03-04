@@ -23,7 +23,7 @@ To modify as you please. All 3D printed parts are in the file.
 - Magnetometre_SensorStrainRelief.stl
 - Magnetometre_SensorTube.stl
 
-Print one of each in your choice of filament.
+Print one of each in your choice of filament, PLA or PETG work fine.
 
 
 BOM (in progress):
