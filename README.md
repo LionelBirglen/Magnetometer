@@ -1,4 +1,4 @@
-# Magnetometer
+# Open-Source Magnetometer
 
 This is a repository for the open-source magnetometer I built.
 
