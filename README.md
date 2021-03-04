@@ -17,11 +17,11 @@ To modify as you please. All 3D printed parts are in the file.
 
 
 3D Printer Files:
-- Magnetometre_MainBox
-- Magnetometre_BatteryLid
-- Magnetometre_MainLid
-- Magnetometre_SensorStrainRelief
-- Magnetometre_SensorTube
+- Magnetometre_MainBox.stl
+- Magnetometre_BatteryLid.stl
+- Magnetometre_MainLid.stl
+- Magnetometre_SensorStrainRelief.stl
+- Magnetometre_SensorTube.stl
 
 Print one of each in your choice of filament.
 
