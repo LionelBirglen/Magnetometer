@@ -5,7 +5,7 @@ This is a repository for the open-source magnetometer I built.
 For instructions, see YouTube video: 
 
 Arduino Program:
-Magnetometre.ino
+- Magnetometre.ino
 
 CAD Files:
 - Magnetometre.igs
