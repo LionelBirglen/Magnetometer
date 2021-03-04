@@ -6,6 +6,8 @@ Arduino Program:
 Magnetometre.ino
 
 CAD Files:
+- Magnetometre.igs
+- Magnetometre.stp 
 
 3D Printer Files:
 
