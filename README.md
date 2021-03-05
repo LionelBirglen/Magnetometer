@@ -27,5 +27,5 @@ To modify as you please. All 3D printed parts are in the file.
 Print one of each in your choice of filament, PLA or PETG work fine.
 
 
-BOM (in progress):
+Bill of Material (in progress):
 - Magnetometre_BOM.ods
