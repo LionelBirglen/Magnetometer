@@ -1,6 +1,8 @@
 # Open-Source Magnetometer
 
-This is a repository for the open-source magnetometer I built.
+This is a repository for an open-source magnetometer.
+
+![picture](Magneto.png)
 
 For instructions, see YouTube video: 
 
